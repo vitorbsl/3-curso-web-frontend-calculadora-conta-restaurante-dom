@@ -180,7 +180,7 @@ Você deve enviar o link do repositório com as questões respondidas para o Moo
 [If and Else](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/if...else)
 
 ### Dica Extra:
-Quanto mais clara e bem documentada for sua solução, mais chances você tem de impressionar os revisores e aumentar suas chances de aprendizado (e, claro, de ganhar o sorteio!).
+Quanto mais clara e bem documentada for sua solução, mais chances você tem de impressionar os revisores e aumentar suas chances de aprendizado.
 
 **Boa sorte e bom código!** 🚀📘
 
