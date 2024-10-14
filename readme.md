@@ -42,6 +42,13 @@ Você pode aprofundar mais nos conceitos de **condicionais** e **loops** nos lin
 Estilização com CSS para garantir uma boa usabilidade e design agradável.
 Uso de classes e IDs para selecionar e estilizar elementos.
 
+#### O figma
+
+O Figma é uma ferramenta de design colaborativa baseada na web, amplamente utilizada para criar interfaces de usuário, protótipos e layouts para websites e aplicativos. Ele é especialmente popular entre designers e desenvolvedores devido às suas funcionalidades que permitem uma colaboração em tempo real, semelhante a como o Google Docs funciona para textos.
+
+[Link do Figma](https://www.figma.com/design/6zbbS5omjpwit9JACnd9aF/Untitled?node-id=0-1&t=Q5pjufkBxOdCIz4J-1)  
+
+
 
 ## Instruções
 
@@ -160,17 +167,6 @@ Depois de responder às questões e adicionar comentários ao código, você pre
 
 Você deve enviar o link do repositório com as questões respondidas para o Moodle, para que o instrutor possa revisar o seu trabalho. O link do GitHub facilita o acesso ao código e também permite que o instrutor veja todo o histórico de commits (versões anteriores do código), o que é útil para acompanhar seu progresso.
 
-
-# :trophy: Sorteio Especial
-
-Ao final da entrega deste desafio, todos os participantes que apresentarem sua solução terão a oportunidade de participar de um **sorteio exclusivo** de um livro sobre **programação e desenvolvimento web**! 🎉
-
-## Como Participar:
-
-1. **Complete o desafio**: Resolva o problema de cálculo de conta utilizando JavaScript e a biblioteca `readline-sync`.
-2. **Submeta sua solução**: Envie o link do seu repositório com o código completo através da plataforma da Campinho Digital.
-3. **Apresentação da Solução**: Durante a revisão final, você terá a chance de **apresentar** sua solução, explicando como resolveu o desafio e quais foram os passos e decisões que tomou.
-4. **Participação no Sorteio**: Todos que apresentarem suas soluções irão automaticamente participar do **sorteio de um livro** especialmente selecionado para ajudá-lo a continuar aprimorando suas habilidades em programação!
 
 
 #### Links
